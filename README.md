@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓I'am learning JavaScript and React<br>👨🏻‍💻I am looking for internship and practice
+🎓Frontend developer (React.js)
 
 
 ## 🌐 Socials:
